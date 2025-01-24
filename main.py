@@ -208,7 +208,7 @@ class PDBViewer:
     def __init__(self, pdb_file):
         pygame.init()
         self.screen = pygame.display.set_mode((WIDTH, HEIGHT))
-        pygame.display.set_caption("Protein Relaxation Benchmark")
+        pygame.display.set_caption("Relax-Bench 🪑")
         self.clock = pygame.time.Clock()
         self.font = pygame.font.SysFont('Arial', FONT_SIZE)
         
