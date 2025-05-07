@@ -33,6 +33,7 @@ This tool was developed based on pyrosetta relaxation combined with a handmade P
 | CPU            | Score   | Time  |
 | -----------    | ------ | ------ |
 | `M1`           |  29624 | 169sec |
+| `M3`           |  33023 | 114sec |
 | `12100F`       |  27085 | 262sec |
 | `Your CPU :) ` | [Submit it](https://docs.google.com/forms/d/e/1FAIpQLSeA7G9HrApUzfOurF2i9OKnAjhgxtBo6RwPhsiBG1x4JTcA7A/viewform?usp=dialog) |
 
